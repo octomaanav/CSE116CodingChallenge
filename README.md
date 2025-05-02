@@ -92,11 +92,13 @@ Your task is to:
 ### Sample Test Cases
 
 #### Example Tree:
+```python
     5
    / \
  -9   3
  / \
 4   20
+```
 
 - Max earning = `5 + (-9) + 20 = 16`
 
