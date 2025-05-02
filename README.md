@@ -103,9 +103,11 @@ Your task is to:
 - Max earning = `5 + (-9) + 20 = 16`
 
 #### All Negative Tree:
+```python
   -1
   / \
 -2  -3
+```
 
 - Max profit = `0` (since all paths lead to a net loss)
 
@@ -142,17 +144,19 @@ You're given the `head` of a **linked list** that represents Jesse’s path. You
 ### Sample Test Cases
 
 **Cycle Case:**
-
+```python
 1 → 2 → 3 → 4 → 5
 ↑       ↓
  ← ← ← ←
+```
 
 - Output (Cycle Exists): `True`
 - Bonus Output (Cycle Start): `Node with value 2`
 
 **No Cycle Case:**
-
+```python
 1 → 2 → 3 → 4 → 5
+```
 
 - Output (Cycle Exists): `False`
 - Bonus Output (Cycle Start): `None`
