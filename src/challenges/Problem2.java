@@ -1,4 +1,4 @@
-package challenges.problem2;
+package challenges;
 
 import datastructures.BinaryTreeNode;
 
