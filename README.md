@@ -143,7 +143,7 @@ You're given the `head` of a **linked list** that represents Jesse’s path. You
 
 1 → 2 → 3 → 4 → 5
 ↑       ↓
-← ← ← ←
+ ← ← ← ←
 
 - Output (Cycle Exists): `True`
 - Bonus Output (Cycle Start): `Node with value 2`
