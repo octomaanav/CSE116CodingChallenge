@@ -3,7 +3,7 @@ package tests;
 
 import org.junit.Test;
 
-import static challenges.problem1.Problem1.decodePassword;
+import static challenges.Problem1.decodePassword;
 import static org.junit.Assert.assertEquals;
 
 public class TestProblem1 {

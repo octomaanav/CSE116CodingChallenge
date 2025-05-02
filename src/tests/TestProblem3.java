@@ -1,6 +1,6 @@
 package tests;
 
-import challenges.problem3.Problem3;
+import challenges.Problem3;
 import datastructures.LinkedListNode;
 import org.junit.Test;
 

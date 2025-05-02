@@ -3,7 +3,7 @@ package tests;
 import datastructures.BinaryTreeNode;
 import org.junit.Test;
 
-import static challenges.problem2.Problem2.maxGamblingProfit;
+import static challenges.Problem2.maxGamblingProfit;
 import static org.junit.Assert.assertEquals;
 
 public class TestProblem2 {
