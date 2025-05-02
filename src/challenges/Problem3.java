@@ -1,4 +1,4 @@
-package challenges.problem3;
+package challenges;
 
 import datastructures.LinkedListNode;
 
