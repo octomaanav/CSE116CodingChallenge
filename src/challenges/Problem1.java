@@ -1,4 +1,4 @@
-package challenges.problem1;
+package challenges;
 
 public class Problem1 {
 
